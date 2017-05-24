@@ -1,18 +1,18 @@
-﻿.. Prj1 documentation master file, created by
-   sphinx-quickstart on Thu Mar 23 00:30:08 2017.
+﻿.. Lichny_kabinet_kontrolera documentation master file, created by
+   sphinx-quickstart on Mon May 15 17:54:46 2017.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Prj1's documentation!
-================================
+Welcome to Lichny_kabinet_kontrolera's documentation!
+=====================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
-:doc:`Test document </test1>`
-:doc:`Личный кабинет контролера </lk>`
+   Lichny_kabinet_kontrolera_vvedenie
+   Lichny_kabinet_kontrolera_akty_zameny_PU
+   Lichny_kabinet_kontrolera_vedomosti_obxoda
 
 
 
