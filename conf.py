@@ -121,7 +121,11 @@ latex_elements = {
 
     # Additional stuff for the LaTeX preamble.
     #
-    'preamble': '\\usepackage[utf8x]{inputenc}',
+'preamble': '\\usepackage[utf8]{inputenc}',
+'babel': '\\usepackage[russian]{babel}',
+'cmappkg': '\\usepackage{cmap}',
+'fontenc': '\usepackage[T1,T2A]{fontenc}',
+'utf8extra':'\\DeclareUnicodeCharacter{00A0}{\\nobreakspace}',
 
     # Latex figure (float) alignment
     #
