@@ -10,9 +10,9 @@ Welcome to Lichny_kabinet_kontrolera's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   Lichny_kabinet_kontrolera_vvedenie
-   Lichny_kabinet_kontrolera_akty_zameny_PU
-   Lichny_kabinet_kontrolera_vedomosti_obxoda
+   LKKV
+   LKKAZPU
+   LKKVO
 
 
 
